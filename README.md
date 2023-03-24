@@ -13,4 +13,3 @@ mapping - mapping users' addresses to users' addresses and the number of tokens 
 The contract defines the following events:
 
 Transfer - the event that is generated for each successful token transfer transaction.
-Approval
